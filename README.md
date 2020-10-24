@@ -23,7 +23,7 @@ I'm a civil engineer living in <img src="https://img.icons8.com/color/25/000000/
 
 | Technologies | Tools |
 |-|-|
-| ![Python](https://img.shields.io/badge/-Python-3C78A9?logo=python&logoColor=FFFFFF) | <img src="https://simpleicons.org/icons/numpy.svg" width="15"/> **NumPy**, <img src="https://simpleicons.org/icons/pandas.svg" width="15"/> **Pandas**, **SciPy**, **Matplotlib**, **Sphinx**, **Coverage.py** |
+| ![Python](https://img.shields.io/badge/-Python-3C78A9?logo=python&logoColor=FFFFFF) | <img src="https://simpleicons.org/icons/numpy.svg" width="15"/> **NumPy**, <img src="https://simpleicons.org/icons/pandas.svg" width="15"/> **Pandas**, **SciPy**, **Matplotlib**, <img src="https://simpleicons.org/icons/jinja.svg" width="15"/> **Jinja**, **Sphinx**, **Coverage.py** |
 | ![HTML](https://img.shields.io/badge/-HTML-ff751a?logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-2965f1?logo=CSS3&logoColor=FFFFFF) <br> ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=FFFFFF) | |
 | IDEs | <img src="https://simpleicons.org/icons/pycharm.svg" width="15"/> **PyCharm**, <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="15"/> **VS Code** |
 | CI | <img src="https://simpleicons.org/icons/travisci.svg" width="15"/> **Travis**, <img src="https://simpleicons.org/icons/appveyor.svg" width="15"/> **AppVeyor** |
