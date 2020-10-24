@@ -1,12 +1,12 @@
 <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&h=300&q=80"/>
  
-### Hi there 👋, I'm Florian.
+### Hi there 👋, I'm Florian Bernhart.
 
 
 I'm a civil engineer living in <img src="https://img.icons8.com/color/25/000000/munich-cathedral.png" align="center"/> Munich, <img src="https://img.icons8.com/doodle/25/000000/germany.png" align="center"/> Germany, that recently started his programming journey. 👨‍💻
 
 
-🔨 *Currently working on:* <a href="https://github.com/xhtml2pdf/xhtml2pdf"><img src="https://img.shields.io/badge/-xtml2pdf-000605?logo=github" alt="xhtml2pdf" align="center"/></a> ; first personal project (to be announced)
+🔨 *Currently working on:* contributing to <a href="https://github.com/xhtml2pdf/xhtml2pdf"><img src="https://img.shields.io/badge/-xtml2pdf-000605?logo=github" alt="xhtml2pdf" align="center"/></a> ; first personal project (to be announced)
  
 🌱 *Currently learning:* Everything related to Python.
 
@@ -34,8 +34,8 @@ I'm a civil engineer living in <img src="https://img.icons8.com/color/25/000000/
 ---
 ### 📈 GitHub Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fbernhart&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/fbernhart/fbernhart/README.md)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fbernhart)](https://github.com/fbernhart/fbernhart/README.md)-->
+![Github stats](https://github-readme-stats.vercel.app/api?username=fbernhart&show_icons=true&hide_rank=true&include_all_commits=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fbernhart)-->
 
 <br>
 
