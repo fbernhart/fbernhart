@@ -14,7 +14,7 @@ I'm a civil engineer living in <img src="https://img.icons8.com/color/25/000000/
 
 🤝 *Collaborations:* Always interested in contributing to great projects and ideas! Contact me!
 
-📫 *How to reach me*: Via e-mail `florian hyphen bernhart at hotmail dot com`
+📫 *How to reach me*: Via e-mail `florian hyphen bernhart at hotmail dot com` or just <a href="https://github.com/fbernhart/fbernhart/issues/new">open an issue</a> in this repo. 
 
 ---
 ### 🔧 Technologies & Tools
