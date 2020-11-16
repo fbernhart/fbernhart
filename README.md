@@ -6,7 +6,7 @@
 I'm a civil engineer living in <img src="https://img.icons8.com/color/25/000000/munich-cathedral.png" align="center"/> Munich, <img src="https://img.icons8.com/doodle/25/000000/germany.png" align="center"/> Germany, that recently started his programming journey. 👨‍💻
 
 
-🔨 *Currently working on:* Contributing to <a href="https://github.com/xhtml2pdf/xhtml2pdf"><img src="https://img.shields.io/badge/-xtml2pdf-000605?logo=github" alt="xhtml2pdf" align="center"/></a> ; first personal project (to be announced)
+🔨 *Currently working on:* <a href="https://github.com/fbernhart/officeextractor"><img src="https://img.shields.io/badge/-officeextractor-000605?logo=github" alt="xhtml2pdf" align="center"/></a> (own project); Contributing to <a href="https://github.com/xhtml2pdf/xhtml2pdf"><img src="https://img.shields.io/badge/-xtml2pdf-000605?logo=github" alt="xhtml2pdf" align="center"/></a>
  
 🌱 *Currently learning:* Everything related to Python.
 
