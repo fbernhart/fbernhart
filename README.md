@@ -6,7 +6,7 @@
 I'm a civil engineer living in <img src="https://img.icons8.com/color/25/000000/munich-cathedral.png" align="center"/> Munich, <img src="https://img.icons8.com/doodle/25/000000/germany.png" align="center"/> Germany, that recently started his programming journey. 👨‍💻
 
 
-🔨 *Currently working on:* <a href="https://github.com/fbernhart/officeextractor"><img src="https://img.shields.io/badge/-officeextractor-000605?logo=github" alt="xhtml2pdf" align="center"/></a> (own project); Contributing to <a href="https://github.com/xhtml2pdf/xhtml2pdf"><img src="https://img.shields.io/badge/-xtml2pdf-000605?logo=github" alt="xhtml2pdf" align="center"/></a>
+🔨 *Currently working on:* <a href="https://github.com/fbernhart/officeextractor"><img src="https://img.shields.io/badge/-officeextractor-000605?logo=github" alt="xhtml2pdf" align="center"/></a> (own project); Contributing to various open source projects on GitHub
  
 🌱 *Currently learning:* Everything related to Python.
 
@@ -30,7 +30,8 @@ I'm a civil engineer living in <img src="https://img.icons8.com/color/25/000000/
 ---
 ### 📈 GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fbernhart&show_icons=true&hide_rank=true&include_all_commits=true)<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fbernhart)-->
+![Github stats](https://github-readme-stats.vercel.app/api?username=fbernhart&show_icons=true&hide_rank=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fbernhart)
 
 ---
 All icons by: <a href="https://icons8.com">Icons8</a>, <a href="https://simpleicons.org">Simple Icons</a> and <a href="https://shields.io">Shields IO</a>; Title picture by: <a href="https://unsplash.com">Unsplash</a>
